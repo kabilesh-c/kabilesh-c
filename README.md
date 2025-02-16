@@ -1,6 +1,6 @@
 -👋 Hi, I’m Kabilesh C!
 -🚀 About Me
-   I'm a passionate CSE student specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.
+   I'm a passionate 1st year CSE student specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.
    Coding is my jam, and I'm always eager to dive deeper into new languages and tech stacks!
 -🔥 What I’m Up To
 -👀 Interested in: Competitive programming, AI/ML, software development, and building innovative projects.
