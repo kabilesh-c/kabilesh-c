@@ -15,7 +15,7 @@
    C++ and Python projects involving algorithms, data structures, or real-world applications
    Any innovative ideas that push the boundaries of coding and creativity!
 -📫 How to Reach Me
-  📨 [kc7002@srmist.edu.in]
+  📨 [kabileshc.dev@gmail.com]
   💬 Let’s connect for coding collabs, AI/ML discussions, or brainstorming the next big tech idea!
 -⚡ Fun Fact
   I balance my rigorous coding schedule with anime breaks—because a good story is as satisfying as a clean, efficient code! 🎮📚🎬
