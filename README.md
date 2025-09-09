@@ -17,8 +17,8 @@
 
 ## 💫 About Me:
 - 🔭 Currently working on: **C++, Java, and Web Development projects**  
-- 📚 Learning: **Object-Oriented Programming, Java,Web Development and C++**  
-- 🎓 **1st-year CSE (AI/ML) Student** at **SRM Institute of Science and Technology, KTR**  
+- 📚 Learning: ** MERN Stack & ML **  
+- 🎓 **2nd year CSE (AI/ML) Student** at **SRM Institute of Science and Technology, KTR**  
 - 🚀 Exploring **AI/ML, Competitive Coding, and Development**  
 - 💼 Part of **SRM DSA (Operations & Resource Management)**  
 - 🤝 Looking to collaborate on **projects and open-source contributions** – reach me at **[kabileshc.dev@gmail.com](mailto:kabileshc.dev@gmail.com)**  
