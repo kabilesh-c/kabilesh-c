@@ -17,7 +17,7 @@
 
 ## 💫 About Me:
 - 🔭 Currently working on: **C++, Java, and Web Development projects**  
-- 📚 Learning: ** MERN Stack & ML **  
+- 📚 Learning: **MERN Stack & ML**  
 - 🎓 **2nd year CSE (AI/ML) Student** at **SRM Institute of Science and Technology, KTR**  
 - 🚀 Exploring **AI/ML, Competitive Coding, and Development**  
 - 💼 Part of **SRM DSA (Operations & Resource Management)**  
