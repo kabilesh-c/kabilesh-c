@@ -20,7 +20,6 @@
 - 📚 Learning: **MERN Stack & ML**  
 - 🎓 **2nd year CSE (AI/ML) Student** at **SRM Institute of Science and Technology, KTR**  
 - 🚀 Exploring **AI/ML, Competitive Coding, and Development**  
-- 💼 Part of **SRM DSA (Operations & Resource Management)**  
 - 🤝 Looking to collaborate on **projects and open-source contributions** – reach me at **[kabileshc.dev@gmail.com](mailto:kabileshc.dev@gmail.com)**  
 - ⚡ Fun fact: I love **coding, exploring new technologies, and watching anime**!  
 
