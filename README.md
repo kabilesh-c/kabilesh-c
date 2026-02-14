@@ -48,22 +48,9 @@ Focused on solving socially impactful real world problems through rapid innovati
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kabilesh-c20">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kabilesh-c">
-    <img src="https://img.shields.io/badge/GitHub-1f2328?style=flat&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nneptunussz._.89">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kabileshc.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/kabilesh-c20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/></a><a href="https://github.com/kabilesh-c"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/></a><a href="https://www.instagram.com/nneptunussz._.89"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42"/></a><a href="mailto:kabileshc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/></a>
 </p>
+
 
 ---
 
