@@ -40,7 +40,7 @@ Working on applied machine learning systems and real world AI deployment.
 Contributed to machine learning research and experimentation workflows.
 
 ## 🏆 Achievements
-**4× Hackathon Winner**  
+**Winner of 10+ Hackathons**  
 Focused on solving socially impactful real world problems through rapid innovation.
 
 ---
